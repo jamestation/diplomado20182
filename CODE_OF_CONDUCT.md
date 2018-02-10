@@ -1,4 +1,4 @@
-# Code of Conduct
+# Code of Conduct wow
 
 ## 1. Purpose
 
